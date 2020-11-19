@@ -10,7 +10,7 @@ body {
    color: #39a6b2 
 }
 
-/* apply styles to <header> */
+/* Start Header styles */
 
 header {
     padding: 20px 35px;
@@ -45,6 +45,9 @@ header nav ul li a {
     font-size: 22px;
 }
 
+/* End Header Style */
+
+/* Footer Style */
 footer {
     background: #fce138;
     width: 100%;
@@ -72,6 +75,7 @@ section {
     padding: 60px;
     
 }
+/* End Footer Style  */
 
 /* Hero Style Start */
 .hero {
